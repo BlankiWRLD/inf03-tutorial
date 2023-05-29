@@ -1,8 +1,8 @@
 export default {
   head: {
-    title: 'NEFA',
+    title: 'INF03',
     htmlAttrs: {
-      lang: 'en',
+      lang: 'pl',
     },
     meta: [
       { charset: 'utf-8' },
