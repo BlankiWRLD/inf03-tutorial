@@ -84,7 +84,7 @@
         Pobaw się kodem na typowej stronie egzaminacyjnej
     </div>
       <div class="w-full flex flex-col lg:flex-row items-center justify-center">
-        <iframe height="300" style="width: 100%;" scrolling="no" title="Egzamin INF. 03" src="https://codepen.io/blankiwrld/embed/jOeoVBe?default-tab=html%2Cresult&editable=true&theme-id=dark" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+        <iframe height="500" style="width: 100%;" scrolling="no" title="Egzamin INF. 03" src="https://codepen.io/blankiwrld/embed/jOeoVBe?default-tab=html%2Cresult&editable=true&theme-id=dark" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href="https://codepen.io/blankiwrld/pen/jOeoVBe">
   Egzamin INF. 03</a> by BlankiWRLD (<a href="https://codepen.io/blankiwrld">@blankiwrld</a>)
   on <a href="https://codepen.io">CodePen</a>.
